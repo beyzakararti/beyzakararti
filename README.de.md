@@ -36,12 +36,14 @@ Ich studiere Elektro- und Elektronikingenieurwesen an der Universität Duisburg-
 
 ## GitHub-Statistiken
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=beyzakararti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub-Statistiken" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzakararti&layout=compact&theme=tokyonight&hide_border=true" alt="Meistgenutzte Sprachen" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top"><img src="https://raw.githubusercontent.com/beyzakararti/beyzakararti/metrics/metrics.general.svg" alt="GitHub-Statistiken" width="470"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/beyzakararti/beyzakararti/metrics/metrics.languages.svg" alt="Meistgenutzte Sprachen" width="470"></td>
+  </tr>
+</table>
 
-<p align="center"><sub>Diese Karten zählen nur öffentliche Aktivität; der Großteil meiner Arbeit liegt in privaten Repositories.</sub></p>
+<p align="center"><sub>Enthält Aktivität in privaten Repositories (nur Zahlen, keine Repository-Namen). Täglich aktualisiert.</sub></p>
 
 <p align="center">
   <picture>

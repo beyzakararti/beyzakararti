@@ -36,12 +36,14 @@ I'm an Electrical and Electronics Engineering student at the University of Duisb
 
 ## GitHub stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=beyzakararti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzakararti&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top"><img src="https://raw.githubusercontent.com/beyzakararti/beyzakararti/metrics/metrics.general.svg" alt="GitHub statistics" width="470"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/beyzakararti/beyzakararti/metrics/metrics.languages.svg" alt="Most used languages" width="470"></td>
+  </tr>
+</table>
 
-<p align="center"><sub>These cards count public activity only; most of my work is in private repositories.</sub></p>
+<p align="center"><sub>Includes activity in private repositories (numbers only, no repository names). Updated daily.</sub></p>
 
 <p align="center">
   <picture>
