@@ -1,16 +1,10 @@
 <p align="center">🇬🇧 English | <a href="README.de.md">🇩🇪 Deutsch</a></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:2c5364,100:3a7bd5&text=Beyza%20Kararti&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Electrical%20%26%20Electronics%20Engineering&descSize=18&descAlignY=62" alt="Beyza Kararti" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=Electrical+%26+Electronics+Engineering+Student;LLM+Development;Web+Design+%26+Deployment;Circuit+Design;3D+Design;R%26D+%26+Research" alt="Electrical & Electronics Engineering Student · LLM Development · Web Design & Deployment · Circuit Design · 3D Design · R&D & Research" />
-</p>
+<p align="center"><img src="assets/header.svg" alt="Beyza Kararti - Electrical &amp; Electronics Engineering Student" width="100%"></p>
 
 ## About
 
-I'm an Electrical and Electronics Engineering student at Afyon Kocatepe University (Türkiye), currently based in Duisburg, Germany, as an Erasmus+ exchange student at the University of Duisburg-Essen. I like projects where hardware, software and research meet. Most of my repositories are private; I'm happy to give access on request.
+I'm an Electrical and Electronics Engineering student at the University of Duisburg-Essen in Duisburg, Germany. I like projects where hardware, software and research meet. Most of my repositories are private; I'm happy to give access on request.
 
 ## What I do / interests
 
@@ -45,10 +39,6 @@ I'm an Electrical and Electronics Engineering student at Afyon Kocatepe Universi
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=beyzakararti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzakararti&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=beyzakararti&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center"><sub>These cards count public activity only; most of my work is in private repositories.</sub></p>

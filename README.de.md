@@ -1,16 +1,10 @@
 <p align="center"><a href="README.md">🇬🇧 English</a> | 🇩🇪 Deutsch</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:2c5364,100:3a7bd5&text=Beyza%20Kararti&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Elektrotechnik%20%26%20Elektronik&descSize=18&descAlignY=62" alt="Beyza Kararti" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=Studentin+der+Elektrotechnik+und+Elektronik;LLM-Entwicklung;Webdesign+%26+Deployment;Schaltungsentwurf;3D-Design;Forschung+%26+Entwicklung" alt="Studentin der Elektrotechnik und Elektronik · LLM-Entwicklung · Webdesign & Deployment · Schaltungsentwurf · 3D-Design · Forschung & Entwicklung" />
-</p>
+<p align="center"><img src="assets/header.svg" alt="Beyza Kararti - Studentin der Elektrotechnik und Elektronik" width="100%"></p>
 
 ## Über mich
 
-Ich studiere Elektro- und Elektronikingenieurwesen an der Afyon Kocatepe Universität (Türkei) und lebe derzeit in Duisburg, Deutschland, als Erasmus+-Austauschstudentin an der Universität Duisburg-Essen. Mich begeistern Projekte, in denen Hardware, Software und Forschung zusammenkommen. Die meisten meiner Repositories sind privat; auf Anfrage gebe ich gern Zugang.
+Ich studiere Elektro- und Elektronikingenieurwesen an der Universität Duisburg-Essen in Duisburg, Deutschland. Mich begeistern Projekte, in denen Hardware, Software und Forschung zusammenkommen. Die meisten meiner Repositories sind privat; auf Anfrage gebe ich gern Zugang.
 
 ## Was ich mache / Interessen
 
@@ -45,10 +39,6 @@ Ich studiere Elektro- und Elektronikingenieurwesen an der Afyon Kocatepe Univers
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=beyzakararti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub-Statistiken" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzakararti&layout=compact&theme=tokyonight&hide_border=true" alt="Meistgenutzte Sprachen" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=beyzakararti&theme=tokyonight&hide_border=true" alt="GitHub-Streak" />
 </p>
 
 <p align="center"><sub>Diese Karten zählen nur öffentliche Aktivität; der Großteil meiner Arbeit liegt in privaten Repositories.</sub></p>

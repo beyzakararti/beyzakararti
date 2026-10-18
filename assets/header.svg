@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Beyza Kararti - Electrical &amp; Electronics Engineering Student</title>
+  <desc id="d">A rocket flies across the banner and leaves the name, title and focus areas in its trail.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050b14"/>
+      <stop offset="1" stop-color="#0a1f2e"/>
+    </linearGradient>
+    <radialGradient id="haloBlue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0b3d91" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#0b3d91" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="haloGreen" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0e7490" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0e7490" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="flame" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#ecfeff"/>
+      <stop offset="0.35" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#0e7490" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="hull" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f1f7fb"/>
+      <stop offset="1" stop-color="#9db9ca"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10b981" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#0b3d91" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <clipPath id="reveal">
+      <rect x="-300" y="0" width="1500" height="260">
+        <animate attributeName="width" values="70;70;1340;1340" keyTimes="0;0.04;0.5;1" dur="11s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="frame"><rect width="1000" height="260" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .name { font: 700 76px "Segoe UI", Helvetica, Arial, sans-serif; fill: #f8fafc; }
+    .sub { font: 600 30px "Segoe UI", Helvetica, Arial, sans-serif; fill: #34d399; }
+    .tag { font: 400 22px "Segoe UI", Helvetica, Arial, sans-serif; fill: #8fa6ba; }
+    @media (max-width: 560px) {
+      .name { font-size: 88px; }
+      .sub { font-size: 34px; }
+      .tag { font-size: 28px; }
+    }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <ellipse cx="840" cy="40" rx="360" ry="200" fill="url(#haloBlue)"/>
+    <ellipse cx="140" cy="250" rx="320" ry="150" fill="url(#haloGreen)"/>
+    <circle cx="72" cy="38" r="1.3" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="3s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="168" cy="214" r="1.0" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="5s" begin="-6s" repeatCount="indefinite"/></circle>
+    <circle cx="246" cy="30" r="1.1" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="7s" begin="-5s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="238" r="0.9" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="4s" begin="-4s" repeatCount="indefinite"/></circle>
+    <circle cx="452" cy="22" r="1.2" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="6s" begin="-3s" repeatCount="indefinite"/></circle>
+    <circle cx="588" cy="232" r="1.1" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="3s" begin="-2s" repeatCount="indefinite"/></circle>
+    <circle cx="668" cy="40" r="0.9" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="5s" begin="-1s" repeatCount="indefinite"/></circle>
+    <circle cx="742" cy="224" r="1.3" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="7s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="812" cy="26" r="1.0" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="4s" begin="-6s" repeatCount="indefinite"/></circle>
+    <circle cx="884" cy="206" r="1.2" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="6s" begin="-5s" repeatCount="indefinite"/></circle>
+    <circle cx="936" cy="62" r="1.0" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="3s" begin="-4s" repeatCount="indefinite"/></circle>
+    <circle cx="958" cy="150" r="0.9" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="5s" begin="-3s" repeatCount="indefinite"/></circle>
+    <circle cx="30" cy="150" r="1.0" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="7s" begin="-2s" repeatCount="indefinite"/></circle>
+    <circle cx="516" cy="246" r="0.8" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="4s" begin="-1s" repeatCount="indefinite"/></circle>
+    <circle cx="118" cy="120" r="0.8" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="6s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="905" cy="120" r="0.8" fill="#cfe8ff" opacity="0.2"><animate attributeName="opacity" values="0.15;0.75;0.15" dur="3s" begin="-6s" repeatCount="indefinite"/></circle>
+
+    <!-- smoke trail -->
+    <g>
+    <circle cx="100" cy="121" r="0" fill="#a8c4d8" opacity="0" filter="url(#soft)"><animate attributeName="r" values="0;3;12;24;34;34" keyTimes="0;0.1505;0.1705;0.2505;0.3305;1" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.32;0.15;0;0" keyTimes="0;0.1505;0.1705;0.2505;0.3305;1" dur="11s" repeatCount="indefinite"/><animate attributeName="cy" values="121;121;118;113;108;108" keyTimes="0;0.1505;0.1705;0.2505;0.3305;1" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="128" r="0" fill="#a8c4d8" opacity="0" filter="url(#soft)"><animate attributeName="r" values="0;3;12;24;34;34" keyTimes="0;0.1867;0.2067;0.2867;0.3667;1" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.32;0.15;0;0" keyTimes="0;0.1867;0.2067;0.2867;0.3667;1" dur="11s" repeatCount="indefinite"/><animate attributeName="cy" values="128;128;125;120;115;115" keyTimes="0;0.1867;0.2067;0.2867;0.3667;1" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="135" r="0" fill="#a8c4d8" opacity="0" filter="url(#soft)"><animate attributeName="r" values="0;3;12;24;34;34" keyTimes="0;0.2229;0.2429;0.3229;0.4029;1" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.32;0.15;0;0" keyTimes="0;0.2229;0.2429;0.3229;0.4029;1" dur="11s" repeatCount="indefinite"/><animate attributeName="cy" values="135;135;132;127;122;122" keyTimes="0;0.2229;0.2429;0.3229;0.4029;1" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="121" r="0" fill="#a8c4d8" opacity="0" filter="url(#soft)"><animate attributeName="r" values="0;3;12;24;34;34" keyTimes="0;0.2591;0.2791;0.3591;0.4391;1" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.32;0.15;0;0" keyTimes="0;0.2591;0.2791;0.3591;0.4391;1" dur="11s" repeatCount="indefinite"/><animate attributeName="cy" values="121;121;118;113;108;108" keyTimes="0;0.2591;0.2791;0.3591;0.4391;1" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="128" r="0" fill="#a8c4d8" opacity="0" filter="url(#soft)"><animate attributeName="r" values="0;3;12;24;34;34" keyTimes="0;0.2954;0.3154;0.3954;0.4754;1" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.32;0.15;0;0" keyTimes="0;0.2954;0.3154;0.3954;0.4754;1" dur="11s" repeatCount="indefinite"/><animate attributeName="cy" values="128;128;125;120;115;115" keyTimes="0;0.2954;0.3154;0.3954;0.4754;1" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="135" r="0" fill="#a8c4d8" opacity="0" filter="url(#soft)"><animate attributeName="r" values="0;3;12;24;34;34" keyTimes="0;0.3316;0.3516;0.4316;0.5116;1" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.32;0.15;0;0" keyTimes="0;0.3316;0.3516;0.4316;0.5116;1" dur="11s" repeatCount="indefinite"/><animate attributeName="cy" values="135;135;132;127;122;122" keyTimes="0;0.3316;0.3516;0.4316;0.5116;1" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="121" r="0" fill="#a8c4d8" opacity="0" filter="url(#soft)"><animate attributeName="r" values="0;3;12;24;34;34" keyTimes="0;0.3678;0.3878;0.4678;0.5478;1" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.32;0.15;0;0" keyTimes="0;0.3678;0.3878;0.4678;0.5478;1" dur="11s" repeatCount="indefinite"/><animate attributeName="cy" values="121;121;118;113;108;108" keyTimes="0;0.3678;0.3878;0.4678;0.5478;1" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="128" r="0" fill="#a8c4d8" opacity="0" filter="url(#soft)"><animate attributeName="r" values="0;3;12;24;34;34" keyTimes="0;0.404;0.424;0.504;0.584;1" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.32;0.15;0;0" keyTimes="0;0.404;0.424;0.504;0.584;1" dur="11s" repeatCount="indefinite"/><animate attributeName="cy" values="128;128;125;120;115;115" keyTimes="0;0.404;0.424;0.504;0.584;1" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="135" r="0" fill="#a8c4d8" opacity="0" filter="url(#soft)"><animate attributeName="r" values="0;3;12;24;34;34" keyTimes="0;0.4402;0.4602;0.5402;0.6202;1" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.32;0.15;0;0" keyTimes="0;0.4402;0.4602;0.5402;0.6202;1" dur="11s" repeatCount="indefinite"/><animate attributeName="cy" values="135;135;132;127;122;122" keyTimes="0;0.4402;0.4602;0.5402;0.6202;1" dur="11s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- text, revealed along the rocket's trail -->
+    <g clip-path="url(#reveal)">
+      <g>
+        <animate attributeName="opacity" values="1;1;1;1;0;0" keyTimes="0;0.04;0.5;0.84;0.96;1" dur="11s" repeatCount="indefinite"/>
+        <text class="name" x="60" y="104" filter="url(#glow)">Beyza Kararti</text>
+        <text class="sub" x="62" y="152">Electrical &amp; Electronics Engineering Student</text>
+        <text class="tag" x="62" y="192">LLM Development · Circuit Design · 3D Design · R&amp;D</text>
+        <rect x="62" y="214" width="640" height="2" rx="1" fill="url(#rule)"/>
+      </g>
+    </g>
+
+    <!-- rocket (static position is off-screen when animations are unsupported) -->
+    <g transform="translate(0 128)">
+      <g transform="translate(1300 0)">
+        <animateTransform attributeName="transform" type="translate" values="-150 0;-150 0;1120 0;1120 0" keyTimes="0;0.04;0.5;1" dur="11s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0;0 5;0 0" dur="2.4s" repeatCount="indefinite"/>
+          <g transform="scale(1.2)">
+          <!-- flame -->
+          <g filter="url(#glow)">
+            <polygon fill="url(#flame)" points="-44,-7 -78,0 -44,7">
+              <animate attributeName="points" dur="0.3s" repeatCount="indefinite"
+                values="-44,-7 -78,0 -44,7;-44,-8 -90,-1 -44,6;-44,-6 -82,1 -44,8;-44,-7 -78,0 -44,7"/>
+            </polygon>
+            <polygon fill="#ecfeff" opacity="0.9" points="-44,-3.5 -62,0 -44,3.5">
+              <animate attributeName="points" dur="0.24s" repeatCount="indefinite"
+                values="-44,-3.5 -62,0 -44,3.5;-44,-4 -70,0 -44,3;-44,-3 -60,0 -44,4;-44,-3.5 -62,0 -44,3.5"/>
+            </polygon>
+          </g>
+          <!-- fins -->
+          <path d="M-24 -12 L-46 -30 L-42 -9 Z" fill="#0e7490"/>
+          <path d="M-24 12 L-46 30 L-42 9 Z" fill="#0b3d91"/>
+          <!-- nozzle -->
+          <rect x="-46" y="-7" width="6" height="14" rx="2" fill="#475f73"/>
+          <!-- body -->
+          <path d="M34 0 C14 -17 -14 -17 -40 -13 L-40 13 C-14 17 14 17 34 0 Z" fill="url(#hull)"/>
+          <path d="M34 0 C26 -9 18 -13 12 -14.5 L12 14.5 C18 13 26 9 34 0 Z" fill="#10b981"/>
+          <rect x="-40" y="-2" width="22" height="4" fill="#0b3d91" opacity="0.55"/>
+          <!-- window -->
+          <circle cx="0" cy="0" r="6" fill="#0b3d91" stroke="#34d399" stroke-width="1.6" filter="url(#glow)"/>
+          <circle cx="-1.8" cy="-2" r="1.6" fill="#ecfeff" opacity="0.75"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="259" rx="18" fill="none" stroke="#0e7490" stroke-opacity="0.35"/>
+</svg>

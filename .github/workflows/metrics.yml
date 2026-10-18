@@ -1,0 +1,57 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      HAS_TOKEN: ${{ secrets.METRICS_TOKEN != '' }}
+    steps:
+      - name: Missing token
+        if: env.HAS_TOKEN != 'true'
+        run: echo "::warning::The METRICS_TOKEN repository secret is not set; skipping."
+
+      - name: General statistics
+        if: env.HAS_TOKEN == 'true'
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_timezone: Europe/Berlin
+          config_display: regular
+          filename: metrics.general.svg
+          committer_branch: metrics
+          committer_message: "Update metrics"
+
+      - name: Most used languages
+        if: env.HAS_TOKEN == 'true'
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 8
+          config_timezone: Europe/Berlin
+          config_display: regular
+          filename: metrics.languages.svg
+          committer_branch: metrics
+          committer_message: "Update metrics"
