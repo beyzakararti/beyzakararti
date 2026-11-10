@@ -18,6 +18,13 @@ Ich studiere Elektro- und Elektronikingenieurwesen an der Universität Duisburg-
 
 ## Projekte
 
+- **[Sabreza View International](https://github.com/beyzakararti/sabreza-view-international)** — vom Smartphone oder Tablet auf einen PC oder Server zugreifen: KI-Agenten, Freigabeanfragen, Terminal, Bildschirmsteuerung, Dateien und Systemüberwachung. Auf Deutsch, Englisch und Türkisch verfügbar; Quellcode-Zugang auf Anfrage.
+- **İrtifa Atlası** — ein Lernprototyp für die Luftfahrt mit PPL-/ATPL-Vorbereitung, Quizfragen, Prüfungssimulationen und Luftfahrtenglisch (privat).
+- **[Optoelektronik Praktikum](https://github.com/beyzakararti/Optoelektronik-Praktikum)** — Versuchsvorbereitung, LTspice-Demonstrationen, Messauswertung und Protokolle mit Materialien auf Deutsch, Englisch und Türkisch.
+- **Kararti GaN 240** — Entwurf eines 240-W-USB-C-PD-3.1-EPR-Ladegeräts mit Schaltplänen und 3D-Modell (privat; Entwurfsphase).
+- **DECAYKEY** — Prototypentwurf einer Cold Wallet, der Entropie aus radioaktivem Zerfall untersucht (privat; Prototypentwurf).
+- **DEORBIX** — ein Konzept für Systeme zur Entsorgung von Weltraumschrott und ausgedienten Satelliten (privat; Konzeptphase).
+- **CLIMAGUARD EV** — Forschung zur Kondensationsüberwachung und zu thermischen Energieverlusten in Elektrofahrzeugen mit einem ersten Software- und Energiemodell (privat; Simulationsphase).
 - **[Gesture 3D Viewer](https://github.com/beyzakararti/gesture-3d-viewer)** — 3D-Modelle und Folien per Handgesten vor der Webcam steuern.
 - **[Pati-Nabız](https://app.vetaisoft.com)** — Plattform für Gesundheit und Pflege von Haustieren (live; privates Repository).
 - **FRAGWATT** — eine tragbare, modulare 330-W-Powerstation für Gaming-Laptops (privat).
